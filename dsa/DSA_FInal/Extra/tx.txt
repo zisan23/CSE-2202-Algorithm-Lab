@@ -1,0 +1,14 @@
+ // void unionBySize(int x, int y)
+    // {
+    //     int rootX = find(x);
+    //     int rootY = find(y);
+
+    //     if (rootX != rootY)
+    //     {
+    //         if (size[rootX] < size[rootY]){
+    //             swap(rootX, rootY);
+    //         }
+    //         parent[rootY] = rootX;
+    //         size[rootX] += size[rootY];
+    //     }
+    // }
